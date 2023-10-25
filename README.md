@@ -1,4 +1,5 @@
 # Robotic-Arm-Control-System-using-STM32f401re-Microcontroller-and-Servo-Motors
+![FO4DAULJRGOLAU4](https://github.com/Rayhan180/Robotic-Arm-Control-System-using-STM32f401re-Microcontroller-and-Servo-Motors/assets/136218406/eb96c24b-2852-42f3-b400-b9274e780621)
 Programmed in C and implemented the I2C protocol for user-robot communication. Used Proteus for design. Robotics has been a tremendous successful field of
 research in last few decades. Regarding the development of
 robotics, many developed robotic arm has been deployed in
