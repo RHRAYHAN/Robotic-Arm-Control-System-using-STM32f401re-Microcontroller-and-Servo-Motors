@@ -19,5 +19,6 @@ other structural attachment. The movement in potentiometer
 determines the position for the servo motors driving the parts of
 the arm. 
 ![IMG_7540](https://github.com/Rayhan180/Robotic-Arm-Control-System-using-STM32f401re-Microcontroller-and-Servo-Motors/assets/136218406/39cb363c-eb5a-4a3f-881c-f8230f7ffc46)
-Initial project link with arduino :  
+Initial project link with arduino during my Bachelor, then i have upgraded the same project with STM32 MC:  
+:
 https://www.youtube.com/watch?v=FBGc68A9F5c&t=1s
